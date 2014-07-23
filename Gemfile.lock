@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/opscode/omnibus-ruby.git
-  revision: 0ba833567fd2e80215d99fd54d2b9d741c4a37fd
-  branch: 2.0-stable
+  revision: 0ac75d4a57c95228d63280a3579889ab80a7af5c
+  branch: schisamo/missing-metadata
   specs:
     omnibus (2.0.1)
       fpm (~> 0.4)
